@@ -30,8 +30,8 @@ The **Attendance Management System** is a Python-based application that leverage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/attendance-management-system.git
-cd attendance-management-system
+git clone https://github.com/PrajwalMalokar/Facial-Recognition-Attendance-Tracker.git
+cd Facial-Recognition-Attendance-Tracker
 ```
 
 ### 2. Install Required Packages
